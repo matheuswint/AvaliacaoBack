@@ -1,0 +1,23 @@
+{
+  "name": "AvaliacaoBack",
+  "version": "1.0.0",
+  "description": "minha primeira API",
+  "homepage": "https://github.com/matheuswint/AvaliacaoBack#readme",
+  "bugs": {
+    "url": "https://github.com/matheuswint/AvaliacaoBack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuswint/AvaliacaoBack.git"
+  },
+  "license": "ISC",
+  "author": "Matheus Winter",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node --watch index.js "
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
